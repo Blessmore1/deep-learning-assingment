@@ -1,5 +1,7 @@
 # deep-learning-assingment
-VIDEO LINK--- https://youtu.be/vvArGoJCE-0
+VIDEO LINK1-- https://youtu.be/KEiKQl8Sct8
+
+VIDEO LINK2--- https://youtu.be/vvArGoJCE-0
 
 APPLICATION LINK-- https://share.streamlit.io/blessmore1/machine-learning/main/theApp.py
 
